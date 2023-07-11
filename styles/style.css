@@ -396,8 +396,61 @@ font-weight: 700;
 line-height: normal;
 }
 
-.email-text {
+ .email-text {
     padding: 10px;
 }
 
+.flower-shop {
+    width: 1922px;
+height: 449px;
+background: #111010;
+text-align: center;
+align-items: center;
+margin-top: 100px;
+text-align: center;
+}
+
+
+
+
+
+h1{
+    color: rgba(255, 255, 255, 0.90);
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+span {
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.p1 {
+    margin-left: 675px;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+max-width: 570px;
+}
+.p2 {
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+} 
+
+
+ 
 
